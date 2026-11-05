@@ -1,0 +1,14 @@
+{
+  "matches": 477,
+  "actions": 886444,
+  "actions_with_frame": 696594,
+  "frame_coverage_pct": 78.6,
+  "matches_with_frames": 418,
+  "avg_packing_completed_pass": 1.139,
+  "frames_top_events": 25020,
+  "frames_top_rows": 418873,
+  "possessions": 83776,
+  "shots": 11677,
+  "goals": 1149,
+  "xg": 1140.0
+}

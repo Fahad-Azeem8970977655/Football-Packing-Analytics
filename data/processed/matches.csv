@@ -1,0 +1,478 @@
+match_id,match_date,competition,season,home_team,away_team,home_score,away_score,status_360,label
+3773386,2020-10-31,La Liga,2020/2021,Deportivo Alavés,Barcelona,1,1,available,2020-10-31 | Deportivo Alavés 1-1 Barcelona | La Liga 2020/2021
+3773565,2021-01-09,La Liga,2020/2021,Granada,Barcelona,0,4,available,2021-01-09 | Granada 0-4 Barcelona | La Liga 2020/2021
+3773457,2021-05-16,La Liga,2020/2021,Barcelona,Celta Vigo,1,2,available,2021-05-16 | Barcelona 1-2 Celta Vigo | La Liga 2020/2021
+3773631,2021-02-07,La Liga,2020/2021,Real Betis,Barcelona,2,3,available,2021-02-07 | Real Betis 2-3 Barcelona | La Liga 2020/2021
+3773665,2021-03-06,La Liga,2020/2021,Osasuna,Barcelona,0,2,available,2021-03-06 | Osasuna 0-2 Barcelona | La Liga 2020/2021
+3773497,2021-04-10,La Liga,2020/2021,Real Madrid,Barcelona,2,1,available,2021-04-10 | Real Madrid 2-1 Barcelona | La Liga 2020/2021
+3773660,2020-12-13,La Liga,2020/2021,Barcelona,Levante UD,1,0,available,2020-12-13 | Barcelona 1-0 Levante UD | La Liga 2020/2021
+3773593,2020-09-27,La Liga,2020/2021,Barcelona,Villarreal,4,0,available,2020-09-27 | Barcelona 4-0 Villarreal | La Liga 2020/2021
+3773466,2020-10-01,La Liga,2020/2021,Celta Vigo,Barcelona,0,3,available,2020-10-01 | Celta Vigo 0-3 Barcelona | La Liga 2020/2021
+3773585,2020-10-24,La Liga,2020/2021,Barcelona,Real Madrid,1,3,available,2020-10-24 | Barcelona 1-3 Real Madrid | La Liga 2020/2021
+3773552,2021-01-03,La Liga,2020/2021,Huesca,Barcelona,0,1,available,2021-01-03 | Huesca 0-1 Barcelona | La Liga 2020/2021
+3773672,2020-10-04,La Liga,2020/2021,Barcelona,Sevilla,1,1,available,2020-10-04 | Barcelona 1-1 Sevilla | La Liga 2020/2021
+3773587,2020-10-17,La Liga,2020/2021,Getafe,Barcelona,1,0,available,2020-10-17 | Getafe 1-0 Barcelona | La Liga 2020/2021
+3773656,2020-11-21,La Liga,2020/2021,Atlético Madrid,Barcelona,1,0,available,2020-11-21 | Atlético Madrid 1-0 Barcelona | La Liga 2020/2021
+3773377,2020-12-19,La Liga,2020/2021,Barcelona,Valencia,2,2,available,2020-12-19 | Barcelona 2-2 Valencia | La Liga 2020/2021
+3773586,2021-04-29,La Liga,2020/2021,Barcelona,Granada,1,2,available,2021-04-29 | Barcelona 1-2 Granada | La Liga 2020/2021
+3773372,2021-05-08,La Liga,2020/2021,Barcelona,Atlético Madrid,0,0,available,2021-05-08 | Barcelona 0-0 Atlético Madrid | La Liga 2020/2021
+3773387,2021-05-11,La Liga,2020/2021,Levante UD,Barcelona,3,3,available,2021-05-11 | Levante UD 3-3 Barcelona | La Liga 2020/2021
+3773695,2021-05-02,La Liga,2020/2021,Valencia,Barcelona,2,3,available,2021-05-02 | Valencia 2-3 Barcelona | La Liga 2020/2021
+3773369,2021-03-15,La Liga,2020/2021,Barcelona,Huesca,4,1,available,2021-03-15 | Barcelona 4-1 Huesca | La Liga 2020/2021
+3773661,2021-04-22,La Liga,2020/2021,Barcelona,Getafe,5,2,available,2021-04-22 | Barcelona 5-2 Getafe | La Liga 2020/2021
+3773597,2021-03-21,La Liga,2020/2021,Real Sociedad,Barcelona,1,6,available,2021-03-21 | Real Sociedad 1-6 Barcelona | La Liga 2020/2021
+3773523,2020-12-16,La Liga,2020/2021,Barcelona,Real Sociedad,2,1,available,2020-12-16 | Barcelona 2-1 Real Sociedad | La Liga 2020/2021
+3773571,2020-12-22,La Liga,2020/2021,Real Valladolid,Barcelona,0,3,available,2020-12-22 | Real Valladolid 0-3 Barcelona | La Liga 2020/2021
+3773428,2020-12-05,La Liga,2020/2021,Cádiz,Barcelona,2,1,available,2020-12-05 | Cádiz 2-1 Barcelona | La Liga 2020/2021
+3764661,2021-01-06,La Liga,2020/2021,Athletic Club,Barcelona,2,3,available,2021-01-06 | Athletic Club 2-3 Barcelona | La Liga 2020/2021
+3773526,2021-02-13,La Liga,2020/2021,Barcelona,Deportivo Alavés,5,1,available,2021-02-13 | Barcelona 5-1 Deportivo Alavés | La Liga 2020/2021
+3773474,2021-04-05,La Liga,2020/2021,Barcelona,Real Valladolid,1,0,available,2021-04-05 | Barcelona 1-0 Real Valladolid | La Liga 2020/2021
+3773625,2021-02-27,La Liga,2020/2021,Sevilla,Barcelona,0,2,available,2021-02-27 | Sevilla 0-2 Barcelona | La Liga 2020/2021
+3773403,2021-01-31,La Liga,2020/2021,Barcelona,Athletic Club,2,1,available,2021-01-31 | Barcelona 2-1 Athletic Club | La Liga 2020/2021
+3773547,2020-11-29,La Liga,2020/2021,Barcelona,Osasuna,4,0,available,2020-11-29 | Barcelona 4-0 Osasuna | La Liga 2020/2021
+3773415,2021-02-21,La Liga,2020/2021,Barcelona,Cádiz,1,1,available,2021-02-21 | Barcelona 1-1 Cádiz | La Liga 2020/2021
+3764440,2021-02-24,La Liga,2020/2021,Barcelona,Elche,3,0,available,2021-02-24 | Barcelona 3-0 Elche | La Liga 2020/2021
+3773689,2021-04-25,La Liga,2020/2021,Villarreal,Barcelona,1,2,available,2021-04-25 | Villarreal 1-2 Barcelona | La Liga 2020/2021
+3773477,2020-11-07,La Liga,2020/2021,Barcelona,Real Betis,5,2,available,2020-11-07 | Barcelona 5-2 Real Betis | La Liga 2020/2021
+3922240,2024-01-28,African Cup of Nations,2023,Egypt,Congo DR,1,1,unscheduled,2024-01-28 | Egypt 1-1 Congo DR | African Cup of Nations 2023
+3920399,2024-01-19,African Cup of Nations,2023,Cape Verde Islands,Mozambique,3,0,unscheduled,2024-01-19 | Cape Verde Islands 3-0 Mozambique | African Cup of Nations 2023
+3920413,2024-01-23,African Cup of Nations,2023,Gambia,Cameroon,2,3,unscheduled,2024-01-23 | Gambia 2-3 Cameroon | African Cup of Nations 2023
+3920400,2024-01-19,African Cup of Nations,2023,Senegal,Cameroon,3,1,unscheduled,2024-01-19 | Senegal 3-1 Cameroon | African Cup of Nations 2023
+3920409,2024-01-22,African Cup of Nations,2023,Guinea-Bissau,Nigeria,0,1,unscheduled,2024-01-22 | Guinea-Bissau 0-1 Nigeria | African Cup of Nations 2023
+3920417,2024-01-24,African Cup of Nations,2023,Namibia,Mali,0,0,unscheduled,2024-01-24 | Namibia 0-0 Mali | African Cup of Nations 2023
+3920395,2024-01-17,African Cup of Nations,2023,Congo DR,Zambia,1,1,unscheduled,2024-01-17 | Congo DR 1-1 Zambia | African Cup of Nations 2023
+3920407,2024-01-21,African Cup of Nations,2023,South Africa,Namibia,4,0,unscheduled,2024-01-21 | South Africa 4-0 Namibia | African Cup of Nations 2023
+3920412,2024-01-23,African Cup of Nations,2023,Guinea,Senegal,0,2,unscheduled,2024-01-23 | Guinea 0-2 Senegal | African Cup of Nations 2023
+3920415,2024-01-23,African Cup of Nations,2023,Mauritania,Algeria,1,0,unscheduled,2024-01-23 | Mauritania 1-0 Algeria | African Cup of Nations 2023
+3920404,2024-01-20,African Cup of Nations,2023,Tunisia,Mali,1,1,unscheduled,2024-01-20 | Tunisia 1-1 Mali | African Cup of Nations 2023
+3920389,2024-01-15,African Cup of Nations,2023,Cameroon,Guinea,1,1,unscheduled,2024-01-15 | Cameroon 1-1 Guinea | African Cup of Nations 2023
+3920393,2024-01-16,African Cup of Nations,2023,Tunisia,Namibia,0,1,unscheduled,2024-01-16 | Tunisia 0-1 Namibia | African Cup of Nations 2023
+3920403,2024-01-20,African Cup of Nations,2023,Mauritania,Angola,2,3,unscheduled,2024-01-20 | Mauritania 2-3 Angola | African Cup of Nations 2023
+3920394,2024-01-17,African Cup of Nations,2023,Morocco,Tanzania,3,0,unscheduled,2024-01-17 | Morocco 3-0 Tanzania | African Cup of Nations 2023
+3920402,2024-01-20,African Cup of Nations,2023,Algeria,Burkina Faso,2,2,unscheduled,2024-01-20 | Algeria 2-2 Burkina Faso | African Cup of Nations 2023
+3920414,2024-01-23,African Cup of Nations,2023,Angola,Burkina Faso,2,0,unscheduled,2024-01-23 | Angola 2-0 Burkina Faso | African Cup of Nations 2023
+3920405,2024-01-21,African Cup of Nations,2023,Morocco,Congo DR,1,1,unscheduled,2024-01-21 | Morocco 1-1 Congo DR | African Cup of Nations 2023
+3920416,2024-01-24,African Cup of Nations,2023,South Africa,Tunisia,0,0,unscheduled,2024-01-24 | South Africa 0-0 Tunisia | African Cup of Nations 2023
+3922658,2024-02-03,African Cup of Nations,2023,Cape Verde Islands,South Africa,0,0,unscheduled,2024-02-03 | Cape Verde Islands 0-0 South Africa | African Cup of Nations 2023
+3920386,2024-01-14,African Cup of Nations,2023,Nigeria,Equatorial Guinea,1,1,unscheduled,2024-01-14 | Nigeria 1-1 Equatorial Guinea | African Cup of Nations 2023
+3920408,2024-01-22,African Cup of Nations,2023,Equatorial Guinea,Côte d'Ivoire,4,0,unscheduled,2024-01-22 | Equatorial Guinea 4-0 Côte d'Ivoire | African Cup of Nations 2023
+3920397,2024-01-18,African Cup of Nations,2023,Equatorial Guinea,Guinea-Bissau,4,2,unscheduled,2024-01-18 | Equatorial Guinea 4-2 Guinea-Bissau | African Cup of Nations 2023
+3920410,2024-01-22,African Cup of Nations,2023,Mozambique,Ghana,2,2,unscheduled,2024-01-22 | Mozambique 2-2 Ghana | African Cup of Nations 2023
+3923881,2024-02-11,African Cup of Nations,2023,Nigeria,Côte d'Ivoire,1,2,unscheduled,2024-02-11 | Nigeria 1-2 Côte d'Ivoire | African Cup of Nations 2023
+3923880,2024-02-10,African Cup of Nations,2023,South Africa,Congo DR,0,0,available,2024-02-10 | South Africa 0-0 Congo DR | African Cup of Nations 2023
+3922838,2024-02-07,African Cup of Nations,2023,Côte d'Ivoire,Congo DR,1,0,unscheduled,2024-02-07 | Côte d'Ivoire 1-0 Congo DR | African Cup of Nations 2023
+3922837,2024-02-07,African Cup of Nations,2023,Nigeria,South Africa,1,1,unscheduled,2024-02-07 | Nigeria 1-1 South Africa | African Cup of Nations 2023
+3922242,2024-01-29,African Cup of Nations,2023,Senegal,Côte d'Ivoire,1,1,unscheduled,2024-01-29 | Senegal 1-1 Côte d'Ivoire | African Cup of Nations 2023
+3922239,2024-01-28,African Cup of Nations,2023,Equatorial Guinea,Guinea,0,1,unscheduled,2024-01-28 | Equatorial Guinea 0-1 Guinea | African Cup of Nations 2023
+3922659,2024-02-03,African Cup of Nations,2023,Mali,Côte d'Ivoire,1,2,unscheduled,2024-02-03 | Mali 1-2 Côte d'Ivoire | African Cup of Nations 2023
+3922244,2024-01-30,African Cup of Nations,2023,Mali,Burkina Faso,2,1,unscheduled,2024-01-30 | Mali 2-1 Burkina Faso | African Cup of Nations 2023
+3922356,2024-02-02,African Cup of Nations,2023,Congo DR,Guinea,3,1,unscheduled,2024-02-02 | Congo DR 3-1 Guinea | African Cup of Nations 2023
+3922321,2024-02-02,African Cup of Nations,2023,Nigeria,Angola,1,0,unscheduled,2024-02-02 | Nigeria 1-0 Angola | African Cup of Nations 2023
+3922237,2024-01-27,African Cup of Nations,2023,Angola,Namibia,3,0,unscheduled,2024-01-27 | Angola 3-0 Namibia | African Cup of Nations 2023
+3922243,2024-01-30,African Cup of Nations,2023,Morocco,South Africa,0,2,unscheduled,2024-01-30 | Morocco 0-2 South Africa | African Cup of Nations 2023
+3922241,2024-01-29,African Cup of Nations,2023,Cape Verde Islands,Mauritania,1,0,unscheduled,2024-01-29 | Cape Verde Islands 1-0 Mauritania | African Cup of Nations 2023
+3922238,2024-01-27,African Cup of Nations,2023,Nigeria,Cameroon,2,0,unscheduled,2024-01-27 | Nigeria 2-0 Cameroon | African Cup of Nations 2023
+3920396,2024-01-18,African Cup of Nations,2023,Egypt,Ghana,2,2,unscheduled,2024-01-18 | Egypt 2-2 Ghana | African Cup of Nations 2023
+3920385,2024-01-14,African Cup of Nations,2023,Egypt,Mozambique,2,2,unscheduled,2024-01-14 | Egypt 2-2 Mozambique | African Cup of Nations 2023
+3920387,2024-01-14,African Cup of Nations,2023,Ghana,Cape Verde Islands,1,2,unscheduled,2024-01-14 | Ghana 1-2 Cape Verde Islands | African Cup of Nations 2023
+3920419,2024-01-24,African Cup of Nations,2023,Zambia,Morocco,0,1,unscheduled,2024-01-24 | Zambia 0-1 Morocco | African Cup of Nations 2023
+3920418,2024-01-24,African Cup of Nations,2023,Tanzania,Congo DR,0,0,unscheduled,2024-01-24 | Tanzania 0-0 Congo DR | African Cup of Nations 2023
+3920411,2024-01-22,African Cup of Nations,2023,Cape Verde Islands,Egypt,2,2,unscheduled,2024-01-22 | Cape Verde Islands 2-2 Egypt | African Cup of Nations 2023
+3920406,2024-01-21,African Cup of Nations,2023,Zambia,Tanzania,1,1,unscheduled,2024-01-21 | Zambia 1-1 Tanzania | African Cup of Nations 2023
+3920401,2024-01-19,African Cup of Nations,2023,Guinea,Gambia,1,0,unscheduled,2024-01-19 | Guinea 1-0 Gambia | African Cup of Nations 2023
+3920398,2024-01-18,African Cup of Nations,2023,Côte d'Ivoire,Nigeria,0,1,unscheduled,2024-01-18 | Côte d'Ivoire 0-1 Nigeria | African Cup of Nations 2023
+3920392,2024-01-16,African Cup of Nations,2023,Burkina Faso,Mauritania,1,0,unscheduled,2024-01-16 | Burkina Faso 1-0 Mauritania | African Cup of Nations 2023
+3920391,2024-01-16,African Cup of Nations,2023,Mali,South Africa,2,0,unscheduled,2024-01-16 | Mali 2-0 South Africa | African Cup of Nations 2023
+3920390,2024-01-15,African Cup of Nations,2023,Algeria,Angola,1,1,unscheduled,2024-01-15 | Algeria 1-1 Angola | African Cup of Nations 2023
+3920388,2024-01-15,African Cup of Nations,2023,Senegal,Gambia,3,0,unscheduled,2024-01-15 | Senegal 3-0 Gambia | African Cup of Nations 2023
+3920384,2024-01-13,African Cup of Nations,2023,Côte d'Ivoire,Guinea-Bissau,2,0,unscheduled,2024-01-13 | Côte d'Ivoire 2-0 Guinea-Bissau | African Cup of Nations 2023
+3857276,2022-12-01,FIFA World Cup,2022,Canada,Morocco,1,2,available,2022-12-01 | Canada 1-2 Morocco | FIFA World Cup 2022
+3857271,2022-11-21,FIFA World Cup,2022,England,Iran,6,2,available,2022-11-21 | England 6-2 Iran | FIFA World Cup 2022
+3857296,2022-12-01,FIFA World Cup,2022,Croatia,Belgium,0,0,available,2022-12-01 | Croatia 0-0 Belgium | FIFA World Cup 2022
+3857274,2022-11-25,FIFA World Cup,2022,Netherlands,Ecuador,1,1,available,2022-11-25 | Netherlands 1-1 Ecuador | FIFA World Cup 2022
+3857255,2022-12-01,FIFA World Cup,2022,Japan,Spain,2,1,available,2022-12-01 | Japan 2-1 Spain | FIFA World Cup 2022
+3857272,2022-11-25,FIFA World Cup,2022,England,United States,0,0,available,2022-11-25 | England 0-0 United States | FIFA World Cup 2022
+3857278,2022-11-29,FIFA World Cup,2022,Iran,United States,0,1,available,2022-11-29 | Iran 0-1 United States | FIFA World Cup 2022
+3857277,2022-11-23,FIFA World Cup,2022,Morocco,Croatia,0,0,available,2022-11-23 | Morocco 0-0 Croatia | FIFA World Cup 2022
+3857273,2022-11-25,FIFA World Cup,2022,Wales,Iran,0,2,available,2022-11-25 | Wales 0-2 Iran | FIFA World Cup 2022
+3857275,2022-11-30,FIFA World Cup,2022,Tunisia,France,1,0,available,2022-11-30 | Tunisia 1-0 France | FIFA World Cup 2022
+3857261,2022-11-29,FIFA World Cup,2022,Wales,England,0,3,available,2022-11-29 | Wales 0-3 England | FIFA World Cup 2022
+3857290,2022-11-24,FIFA World Cup,2022,Switzerland,Cameroon,1,0,available,2022-11-24 | Switzerland 1-0 Cameroon | FIFA World Cup 2022
+3857298,2022-11-24,FIFA World Cup,2022,Portugal,Ghana,3,2,available,2022-11-24 | Portugal 3-2 Ghana | FIFA World Cup 2022
+3857285,2022-11-21,FIFA World Cup,2022,Senegal,Netherlands,0,2,available,2022-11-21 | Senegal 0-2 Netherlands | FIFA World Cup 2022
+3857282,2022-11-21,FIFA World Cup,2022,United States,Wales,1,1,available,2022-11-21 | United States 1-1 Wales | FIFA World Cup 2022
+3857297,2022-11-26,FIFA World Cup,2022,Poland,Saudi Arabia,2,0,available,2022-11-26 | Poland 2-0 Saudi Arabia | FIFA World Cup 2022
+3857294,2022-11-29,FIFA World Cup,2022,Netherlands,Qatar,2,0,available,2022-11-29 | Netherlands 2-0 Qatar | FIFA World Cup 2022
+3857266,2022-11-26,FIFA World Cup,2022,France,Denmark,2,1,available,2022-11-26 | France 2-1 Denmark | FIFA World Cup 2022
+3857284,2022-11-23,FIFA World Cup,2022,Germany,Japan,1,2,available,2022-11-23 | Germany 1-2 Japan | FIFA World Cup 2022
+3857254,2022-11-22,FIFA World Cup,2022,Denmark,Tunisia,0,0,available,2022-11-22 | Denmark 0-0 Tunisia | FIFA World Cup 2022
+3857265,2022-11-22,FIFA World Cup,2022,Mexico,Poland,0,0,available,2022-11-22 | Mexico 0-0 Poland | FIFA World Cup 2022
+3857301,2022-11-25,FIFA World Cup,2022,Qatar,Senegal,1,3,available,2022-11-25 | Qatar 1-3 Senegal | FIFA World Cup 2022
+3857268,2022-11-23,FIFA World Cup,2022,Belgium,Canada,1,0,available,2022-11-23 | Belgium 1-0 Canada | FIFA World Cup 2022
+3857269,2022-11-28,FIFA World Cup,2022,Brazil,Switzerland,1,0,available,2022-11-28 | Brazil 1-0 Switzerland | FIFA World Cup 2022
+3869321,2022-12-09,FIFA World Cup,2022,Netherlands,Argentina,2,2,available,2022-12-09 | Netherlands 2-2 Argentina | FIFA World Cup 2022
+3857292,2022-12-01,FIFA World Cup,2022,Costa Rica,Germany,2,4,available,2022-12-01 | Costa Rica 2-4 Germany | FIFA World Cup 2022
+3857295,2022-11-27,FIFA World Cup,2022,Japan,Costa Rica,0,1,available,2022-11-27 | Japan 0-1 Costa Rica | FIFA World Cup 2022
+3869685,2022-12-18,FIFA World Cup,2022,Argentina,France,3,3,available,2022-12-18 | Argentina 3-3 France | FIFA World Cup 2022
+3869684,2022-12-17,FIFA World Cup,2022,Croatia,Morocco,2,1,available,2022-12-17 | Croatia 2-1 Morocco | FIFA World Cup 2022
+3857256,2022-12-02,FIFA World Cup,2022,Serbia,Switzerland,2,3,available,2022-12-02 | Serbia 2-3 Switzerland | FIFA World Cup 2022
+3869151,2022-12-03,FIFA World Cup,2022,Argentina,Australia,2,1,available,2022-12-03 | Argentina 2-1 Australia | FIFA World Cup 2022
+3857257,2022-11-30,FIFA World Cup,2022,Australia,Denmark,1,0,available,2022-11-30 | Australia 1-0 Denmark | FIFA World Cup 2022
+3857258,2022-11-24,FIFA World Cup,2022,Brazil,Serbia,2,0,available,2022-11-24 | Brazil 2-0 Serbia | FIFA World Cup 2022
+3857288,2022-11-26,FIFA World Cup,2022,Tunisia,Australia,0,1,available,2022-11-26 | Tunisia 0-1 Australia | FIFA World Cup 2022
+3857267,2022-11-29,FIFA World Cup,2022,Ecuador,Senegal,1,2,available,2022-11-29 | Ecuador 1-2 Senegal | FIFA World Cup 2022
+3857287,2022-11-24,FIFA World Cup,2022,Uruguay,South Korea,0,0,available,2022-11-24 | Uruguay 0-0 South Korea | FIFA World Cup 2022
+3869486,2022-12-10,FIFA World Cup,2022,Morocco,Portugal,1,0,available,2022-12-10 | Morocco 1-0 Portugal | FIFA World Cup 2022
+3857260,2022-11-30,FIFA World Cup,2022,Saudi Arabia,Mexico,1,2,available,2022-11-30 | Saudi Arabia 1-2 Mexico | FIFA World Cup 2022
+3857264,2022-11-30,FIFA World Cup,2022,Poland,Argentina,0,2,available,2022-11-30 | Poland 0-2 Argentina | FIFA World Cup 2022
+3857289,2022-11-26,FIFA World Cup,2022,Argentina,Mexico,2,0,available,2022-11-26 | Argentina 2-0 Mexico | FIFA World Cup 2022
+3869254,2022-12-06,FIFA World Cup,2022,Portugal,Switzerland,6,1,available,2022-12-06 | Portugal 6-1 Switzerland | FIFA World Cup 2022
+3869118,2022-12-04,FIFA World Cup,2022,England,Senegal,3,0,available,2022-12-04 | England 3-0 Senegal | FIFA World Cup 2022
+3869519,2022-12-13,FIFA World Cup,2022,Argentina,Croatia,3,0,available,2022-12-13 | Argentina 3-0 Croatia | FIFA World Cup 2022
+3869354,2022-12-10,FIFA World Cup,2022,England,France,1,2,available,2022-12-10 | England 1-2 France | FIFA World Cup 2022
+3869552,2022-12-14,FIFA World Cup,2022,France,Morocco,2,0,available,2022-12-14 | France 2-0 Morocco | FIFA World Cup 2022
+3869420,2022-12-09,FIFA World Cup,2022,Croatia,Brazil,1,1,available,2022-12-09 | Croatia 1-1 Brazil | FIFA World Cup 2022
+3869220,2022-12-06,FIFA World Cup,2022,Morocco,Spain,0,0,available,2022-12-06 | Morocco 0-0 Spain | FIFA World Cup 2022
+3869219,2022-12-05,FIFA World Cup,2022,Japan,Croatia,1,1,available,2022-12-05 | Japan 1-1 Croatia | FIFA World Cup 2022
+3869253,2022-12-05,FIFA World Cup,2022,Brazil,South Korea,4,1,available,2022-12-05 | Brazil 4-1 South Korea | FIFA World Cup 2022
+3869152,2022-12-04,FIFA World Cup,2022,France,Poland,3,1,available,2022-12-04 | France 3-1 Poland | FIFA World Cup 2022
+3869117,2022-12-03,FIFA World Cup,2022,Netherlands,United States,3,1,available,2022-12-03 | Netherlands 3-1 United States | FIFA World Cup 2022
+3857270,2022-11-28,FIFA World Cup,2022,Portugal,Uruguay,2,0,available,2022-11-28 | Portugal 2-0 Uruguay | FIFA World Cup 2022
+3857263,2022-11-27,FIFA World Cup,2022,Spain,Germany,1,1,available,2022-11-27 | Spain 1-1 Germany | FIFA World Cup 2022
+3857259,2022-11-28,FIFA World Cup,2022,Cameroon,Serbia,3,3,available,2022-11-28 | Cameroon 3-3 Serbia | FIFA World Cup 2022
+3857283,2022-11-27,FIFA World Cup,2022,Belgium,Morocco,0,2,available,2022-11-27 | Belgium 0-2 Morocco | FIFA World Cup 2022
+3857286,2022-11-20,FIFA World Cup,2022,Qatar,Ecuador,0,2,available,2022-11-20 | Qatar 0-2 Ecuador | FIFA World Cup 2022
+3857300,2022-11-22,FIFA World Cup,2022,Argentina,Saudi Arabia,1,2,available,2022-11-22 | Argentina 1-2 Saudi Arabia | FIFA World Cup 2022
+3857299,2022-11-28,FIFA World Cup,2022,South Korea,Ghana,2,3,available,2022-11-28 | South Korea 2-3 Ghana | FIFA World Cup 2022
+3857293,2022-12-02,FIFA World Cup,2022,Ghana,Uruguay,0,2,available,2022-12-02 | Ghana 0-2 Uruguay | FIFA World Cup 2022
+3857291,2022-11-23,FIFA World Cup,2022,Spain,Costa Rica,7,0,available,2022-11-23 | Spain 7-0 Costa Rica | FIFA World Cup 2022
+3857281,2022-11-27,FIFA World Cup,2022,Croatia,Canada,4,1,available,2022-11-27 | Croatia 4-1 Canada | FIFA World Cup 2022
+3857280,2022-12-02,FIFA World Cup,2022,Cameroon,Brazil,1,0,available,2022-12-02 | Cameroon 1-0 Brazil | FIFA World Cup 2022
+3857279,2022-11-22,FIFA World Cup,2022,France,Australia,4,1,available,2022-11-22 | France 4-1 Australia | FIFA World Cup 2022
+3857262,2022-12-02,FIFA World Cup,2022,South Korea,Portugal,2,1,available,2022-12-02 | South Korea 2-1 Portugal | FIFA World Cup 2022
+3877115,2023-09-21,Major League Soccer,2023,Inter Miami,Toronto FC,4,0,available,2023-09-21 | Inter Miami 4-0 Toronto FC | Major League Soccer 2023
+3877170,2023-10-08,Major League Soccer,2023,Inter Miami,Cincinnati,0,1,available,2023-10-08 | Inter Miami 0-1 Cincinnati | Major League Soccer 2023
+3877060,2023-08-27,Major League Soccer,2023,New York Red Bulls,Inter Miami,0,2,available,2023-08-27 | New York Red Bulls 0-2 Inter Miami | Major League Soccer 2023
+3877090,2023-09-04,Major League Soccer,2023,LAFC,Inter Miami,1,3,available,2023-09-04 | LAFC 1-3 Inter Miami | Major League Soccer 2023
+3877194,2023-10-22,Major League Soccer,2023,Charlotte,Inter Miami,1,0,available,2023-10-22 | Charlotte 1-0 Inter Miami | Major League Soccer 2023
+3877072,2023-08-31,Major League Soccer,2023,Inter Miami,Nashville SC,0,0,available,2023-08-31 | Inter Miami 0-0 Nashville SC | Major League Soccer 2023
+3835320,2022-07-07,UEFA Women's Euro,2022,Norway Women's,Northern Ireland W,4,1,available,2022-07-07 | Norway Women's 4-1 Northern Ireland W | UEFA Women's Euro 2022
+3835326,2022-07-10,UEFA Women's Euro,2022,Belgium Women's,Iceland Women's,1,1,available,2022-07-10 | Belgium Women's 1-1 Iceland Women's | UEFA Women's Euro 2022
+3835324,2022-07-09,UEFA Women's Euro,2022,Netherlands Women's,Sweden Women's,1,1,available,2022-07-09 | Netherlands Women's 1-1 Sweden Women's | UEFA Women's Euro 2022
+3835336,2022-07-15,UEFA Women's Euro,2022,Austria Women's,Norway Women's,1,0,available,2022-07-15 | Austria Women's 1-0 Norway Women's | UEFA Women's Euro 2022
+3835334,2022-07-14,UEFA Women's Euro,2022,Italy Women's,Iceland Women's,1,1,available,2022-07-14 | Italy Women's 1-1 Iceland Women's | UEFA Women's Euro 2022
+3844386,2022-07-22,UEFA Women's Euro,2022,Sweden Women's,Belgium Women's,1,0,available,2022-07-22 | Sweden Women's 1-0 Belgium Women's | UEFA Women's Euro 2022
+3835327,2022-07-11,UEFA Women's Euro,2022,England Women's,Norway Women's,8,0,available,2022-07-11 | England Women's 8-0 Norway Women's | UEFA Women's Euro 2022
+3835330,2022-07-12,UEFA Women's Euro,2022,Germany Women's,Spain Women's,2,0,available,2022-07-12 | Germany Women's 2-0 Spain Women's | UEFA Women's Euro 2022
+3844385,2022-07-21,UEFA Women's Euro,2022,Germany Women's,Austria Women's,2,0,available,2022-07-21 | Germany Women's 2-0 Austria Women's | UEFA Women's Euro 2022
+3835339,2022-07-17,UEFA Women's Euro,2022,Switzerland Women's,Netherlands Women's,1,4,available,2022-07-17 | Switzerland Women's 1-4 Netherlands Women's | UEFA Women's Euro 2022
+3835331,2022-07-13,UEFA Women's Euro,2022,Sweden Women's,Switzerland Women's,2,1,available,2022-07-13 | Sweden Women's 2-1 Switzerland Women's | UEFA Women's Euro 2022
+3845507,2022-07-27,UEFA Women's Euro,2022,Germany Women's,France Women's,2,1,available,2022-07-27 | Germany Women's 2-1 France Women's | UEFA Women's Euro 2022
+3835321,2022-07-08,UEFA Women's Euro,2022,Spain Women's,WNT Finland,4,1,available,2022-07-08 | Spain Women's 4-1 WNT Finland | UEFA Women's Euro 2022
+3844384,2022-07-20,UEFA Women's Euro,2022,England Women's,Spain Women's,2,1,available,2022-07-20 | England Women's 2-1 Spain Women's | UEFA Women's Euro 2022
+3847567,2022-07-31,UEFA Women's Euro,2022,England Women's,Germany Women's,2,1,available,2022-07-31 | England Women's 2-1 Germany Women's | UEFA Women's Euro 2022
+3845506,2022-07-26,UEFA Women's Euro,2022,England Women's,Sweden Women's,4,0,available,2022-07-26 | England Women's 4-0 Sweden Women's | UEFA Women's Euro 2022
+3835335,2022-07-15,UEFA Women's Euro,2022,Northern Ireland W,England Women's,0,5,available,2022-07-15 | Northern Ireland W 0-5 England Women's | UEFA Women's Euro 2022
+3835323,2022-07-09,UEFA Women's Euro,2022,Portugal Women's,Switzerland Women's,2,2,available,2022-07-09 | Portugal Women's 2-2 Switzerland Women's | UEFA Women's Euro 2022
+3835325,2022-07-10,UEFA Women's Euro,2022,France Women's,Italy Women's,5,1,available,2022-07-10 | France Women's 5-1 Italy Women's | UEFA Women's Euro 2022
+3844387,2022-07-23,UEFA Women's Euro,2022,France Women's,Netherlands Women's,1,0,available,2022-07-23 | France Women's 1-0 Netherlands Women's | UEFA Women's Euro 2022
+3835342,2022-07-18,UEFA Women's Euro,2022,Iceland Women's,France Women's,1,1,available,2022-07-18 | Iceland Women's 1-1 France Women's | UEFA Women's Euro 2022
+3835337,2022-07-16,UEFA Women's Euro,2022,Denmark Women's,Spain Women's,0,1,available,2022-07-16 | Denmark Women's 0-1 Spain Women's | UEFA Women's Euro 2022
+3835338,2022-07-16,UEFA Women's Euro,2022,WNT Finland,Germany Women's,0,3,available,2022-07-16 | WNT Finland 0-3 Germany Women's | UEFA Women's Euro 2022
+3835329,2022-07-12,UEFA Women's Euro,2022,Denmark Women's,WNT Finland,1,0,available,2022-07-12 | Denmark Women's 1-0 WNT Finland | UEFA Women's Euro 2022
+3835322,2022-07-08,UEFA Women's Euro,2022,Germany Women's,Denmark Women's,4,0,available,2022-07-08 | Germany Women's 4-0 Denmark Women's | UEFA Women's Euro 2022
+3835332,2022-07-13,UEFA Women's Euro,2022,Netherlands Women's,Portugal Women's,3,2,available,2022-07-13 | Netherlands Women's 3-2 Portugal Women's | UEFA Women's Euro 2022
+3835341,2022-07-18,UEFA Women's Euro,2022,Italy Women's,Belgium Women's,0,1,available,2022-07-18 | Italy Women's 0-1 Belgium Women's | UEFA Women's Euro 2022
+3835340,2022-07-17,UEFA Women's Euro,2022,Sweden Women's,Portugal Women's,5,0,available,2022-07-17 | Sweden Women's 5-0 Portugal Women's | UEFA Women's Euro 2022
+3835328,2022-07-11,UEFA Women's Euro,2022,Austria Women's,Northern Ireland W,2,0,available,2022-07-11 | Austria Women's 2-0 Northern Ireland W | UEFA Women's Euro 2022
+3835333,2022-07-14,UEFA Women's Euro,2022,France Women's,Belgium Women's,2,1,available,2022-07-14 | France Women's 2-1 Belgium Women's | UEFA Women's Euro 2022
+3835319,2022-07-06,UEFA Women's Euro,2022,England Women's,Austria Women's,1,0,available,2022-07-06 | England Women's 1-0 Austria Women's | UEFA Women's Euro 2022
+3998853,2025-07-10,UEFA Women's Euro,2025,Norway Women's,Iceland Women's,4,3,available,2025-07-10 | Norway Women's 4-3 Iceland Women's | UEFA Women's Euro 2025
+3998838,2025-07-03,UEFA Women's Euro,2025,Belgium Women's,Italy Women's,0,1,available,2025-07-03 | Belgium Women's 0-1 Italy Women's | UEFA Women's Euro 2025
+3998841,2025-07-04,UEFA Women's Euro,2025,Denmark Women's,Sweden Women's,0,1,available,2025-07-04 | Denmark Women's 0-1 Sweden Women's | UEFA Women's Euro 2025
+3998837,2025-07-02,UEFA Women's Euro,2025,Switzerland Women's,Norway Women's,1,2,available,2025-07-02 | Switzerland Women's 1-2 Norway Women's | UEFA Women's Euro 2025
+4020846,2025-07-27,UEFA Women's Euro,2025,England Women's,Spain Women's,1,1,available,2025-07-27 | England Women's 1-1 Spain Women's | UEFA Women's Euro 2025
+4020077,2025-07-23,UEFA Women's Euro,2025,Germany Women's,Spain Women's,0,1,available,2025-07-23 | Germany Women's 0-1 Spain Women's | UEFA Women's Euro 2025
+4020005,2025-07-22,UEFA Women's Euro,2025,England Women's,Italy Women's,2,1,available,2025-07-22 | England Women's 2-1 Italy Women's | UEFA Women's Euro 2025
+4018357,2025-07-19,UEFA Women's Euro,2025,France Women's,Germany Women's,1,1,available,2025-07-19 | France Women's 1-1 Germany Women's | UEFA Women's Euro 2025
+4018356,2025-07-18,UEFA Women's Euro,2025,Spain Women's,Switzerland Women's,2,0,available,2025-07-18 | Spain Women's 2-0 Switzerland Women's | UEFA Women's Euro 2025
+4018355,2025-07-17,UEFA Women's Euro,2025,Sweden Women's,England Women's,2,2,available,2025-07-17 | Sweden Women's 2-2 England Women's | UEFA Women's Euro 2025
+4018354,2025-07-16,UEFA Women's Euro,2025,Norway Women's,Italy Women's,1,2,available,2025-07-16 | Norway Women's 1-2 Italy Women's | UEFA Women's Euro 2025
+3998858,2025-07-13,UEFA Women's Euro,2025,England Women's,Wales W,6,1,available,2025-07-13 | England Women's 6-1 Wales W | UEFA Women's Euro 2025
+3998859,2025-07-13,UEFA Women's Euro,2025,Netherlands Women's,France Women's,2,5,available,2025-07-13 | Netherlands Women's 2-5 France Women's | UEFA Women's Euro 2025
+3998857,2025-07-12,UEFA Women's Euro,2025,Poland Women's,Denmark Women's,3,2,available,2025-07-12 | Poland Women's 3-2 Denmark Women's | UEFA Women's Euro 2025
+3998856,2025-07-12,UEFA Women's Euro,2025,Sweden Women's,Germany Women's,4,1,available,2025-07-12 | Sweden Women's 4-1 Germany Women's | UEFA Women's Euro 2025
+3998855,2025-07-11,UEFA Women's Euro,2025,Italy Women's,Spain Women's,1,3,available,2025-07-11 | Italy Women's 1-3 Spain Women's | UEFA Women's Euro 2025
+3998854,2025-07-11,UEFA Women's Euro,2025,Portugal Women's,Belgium Women's,1,2,available,2025-07-11 | Portugal Women's 1-2 Belgium Women's | UEFA Women's Euro 2025
+3998852,2025-07-10,UEFA Women's Euro,2025,WNT Finland,Switzerland Women's,1,1,available,2025-07-10 | WNT Finland 1-1 Switzerland Women's | UEFA Women's Euro 2025
+3998851,2025-07-09,UEFA Women's Euro,2025,England Women's,Netherlands Women's,4,0,available,2025-07-09 | England Women's 4-0 Netherlands Women's | UEFA Women's Euro 2025
+3998850,2025-07-09,UEFA Women's Euro,2025,France Women's,Wales W,4,1,available,2025-07-09 | France Women's 4-1 Wales W | UEFA Women's Euro 2025
+3998848,2025-07-08,UEFA Women's Euro,2025,Poland Women's,Sweden Women's,0,3,available,2025-07-08 | Poland Women's 0-3 Sweden Women's | UEFA Women's Euro 2025
+3998849,2025-07-08,UEFA Women's Euro,2025,Germany Women's,Denmark Women's,2,1,available,2025-07-08 | Germany Women's 2-1 Denmark Women's | UEFA Women's Euro 2025
+3998846,2025-07-07,UEFA Women's Euro,2025,Portugal Women's,Italy Women's,1,1,available,2025-07-07 | Portugal Women's 1-1 Italy Women's | UEFA Women's Euro 2025
+3998847,2025-07-07,UEFA Women's Euro,2025,Spain Women's,Belgium Women's,6,2,available,2025-07-07 | Spain Women's 6-2 Belgium Women's | UEFA Women's Euro 2025
+3998844,2025-07-06,UEFA Women's Euro,2025,Switzerland Women's,Iceland Women's,2,0,available,2025-07-06 | Switzerland Women's 2-0 Iceland Women's | UEFA Women's Euro 2025
+3998845,2025-07-06,UEFA Women's Euro,2025,Norway Women's,WNT Finland,2,1,available,2025-07-06 | Norway Women's 2-1 WNT Finland | UEFA Women's Euro 2025
+3998842,2025-07-05,UEFA Women's Euro,2025,Wales W,Netherlands Women's,0,3,available,2025-07-05 | Wales W 0-3 Netherlands Women's | UEFA Women's Euro 2025
+3998843,2025-07-05,UEFA Women's Euro,2025,France Women's,England Women's,2,1,available,2025-07-05 | France Women's 2-1 England Women's | UEFA Women's Euro 2025
+3998840,2025-07-04,UEFA Women's Euro,2025,Germany Women's,Poland Women's,2,0,available,2025-07-04 | Germany Women's 2-0 Poland Women's | UEFA Women's Euro 2025
+3998839,2025-07-03,UEFA Women's Euro,2025,Spain Women's,Portugal Women's,5,0,available,2025-07-03 | Spain Women's 5-0 Portugal Women's | UEFA Women's Euro 2025
+3998836,2025-07-02,UEFA Women's Euro,2025,Iceland Women's,WNT Finland,0,1,available,2025-07-02 | Iceland Women's 0-1 WNT Finland | UEFA Women's Euro 2025
+3930166,2024-06-18,UEFA Euro,2024,Portugal,Czech Republic,2,1,available,2024-06-18 | Portugal 2-1 Czech Republic | UEFA Euro 2024
+3930159,2024-06-15,UEFA Euro,2024,Hungary,Switzerland,1,3,available,2024-06-15 | Hungary 1-3 Switzerland | UEFA Euro 2024
+3930163,2024-06-16,UEFA Euro,2024,Serbia,England,0,1,available,2024-06-16 | Serbia 0-1 England | UEFA Euro 2024
+3930181,2024-06-25,UEFA Euro,2024,England,Slovenia,0,0,available,2024-06-25 | England 0-0 Slovenia | UEFA Euro 2024
+3930178,2024-06-24,UEFA Euro,2024,Croatia,Italy,1,1,available,2024-06-24 | Croatia 1-1 Italy | UEFA Euro 2024
+3930160,2024-06-15,UEFA Euro,2024,Spain,Croatia,3,0,available,2024-06-15 | Spain 3-0 Croatia | UEFA Euro 2024
+3930170,2024-06-20,UEFA Euro,2024,Slovenia,Serbia,1,1,available,2024-06-20 | Slovenia 1-1 Serbia | UEFA Euro 2024
+3938643,2024-06-25,UEFA Euro,2024,France,Poland,1,1,available,2024-06-25 | France 1-1 Poland | UEFA Euro 2024
+3938641,2024-06-21,UEFA Euro,2024,Poland,Austria,1,3,available,2024-06-21 | Poland 1-3 Austria | UEFA Euro 2024
+3938642,2024-06-22,UEFA Euro,2024,Georgia,Czech Republic,1,1,available,2024-06-22 | Georgia 1-1 Czech Republic | UEFA Euro 2024
+3938639,2024-06-18,UEFA Euro,2024,Turkey,Georgia,3,1,available,2024-06-18 | Turkey 3-1 Georgia | UEFA Euro 2024
+3938638,2024-06-17,UEFA Euro,2024,Romania,Ukraine,3,0,available,2024-06-17 | Romania 3-0 Ukraine | UEFA Euro 2024
+3938640,2024-06-21,UEFA Euro,2024,Slovakia,Ukraine,1,2,available,2024-06-21 | Slovakia 1-2 Ukraine | UEFA Euro 2024
+3938637,2024-06-16,UEFA Euro,2024,Poland,Netherlands,1,2,available,2024-06-16 | Poland 1-2 Netherlands | UEFA Euro 2024
+3938644,2024-06-26,UEFA Euro,2024,Georgia,Portugal,2,0,available,2024-06-26 | Georgia 2-0 Portugal | UEFA Euro 2024
+3941019,2024-07-01,UEFA Euro,2024,France,Belgium,1,0,available,2024-07-01 | France 1-0 Belgium | UEFA Euro 2024
+3942227,2024-07-06,UEFA Euro,2024,England,Switzerland,1,1,available,2024-07-06 | England 1-1 Switzerland | UEFA Euro 2024
+3930174,2024-06-22,UEFA Euro,2024,Turkey,Portugal,0,3,available,2024-06-22 | Turkey 0-3 Portugal | UEFA Euro 2024
+3930162,2024-06-16,UEFA Euro,2024,Slovenia,Denmark,1,1,available,2024-06-16 | Slovenia 1-1 Denmark | UEFA Euro 2024
+3930176,2024-06-23,UEFA Euro,2024,Switzerland,Germany,1,1,available,2024-06-23 | Switzerland 1-1 Germany | UEFA Euro 2024
+3930169,2024-06-19,UEFA Euro,2024,Scotland,Switzerland,1,1,available,2024-06-19 | Scotland 1-1 Switzerland | UEFA Euro 2024
+3942819,2024-07-10,UEFA Euro,2024,Netherlands,England,1,2,available,2024-07-10 | Netherlands 1-2 England | UEFA Euro 2024
+3943043,2024-07-14,UEFA Euro,2024,Spain,England,2,1,available,2024-07-14 | Spain 2-1 England | UEFA Euro 2024
+3942752,2024-07-09,UEFA Euro,2024,Spain,France,2,1,available,2024-07-09 | Spain 2-1 France | UEFA Euro 2024
+3942382,2024-07-06,UEFA Euro,2024,Netherlands,Turkey,2,1,available,2024-07-06 | Netherlands 2-1 Turkey | UEFA Euro 2024
+3942349,2024-07-05,UEFA Euro,2024,Portugal,France,0,0,available,2024-07-05 | Portugal 0-0 France | UEFA Euro 2024
+3930180,2024-06-25,UEFA Euro,2024,Netherlands,Austria,2,3,available,2024-06-25 | Netherlands 2-3 Austria | UEFA Euro 2024
+3930171,2024-06-20,UEFA Euro,2024,Denmark,England,1,1,available,2024-06-20 | Denmark 1-1 England | UEFA Euro 2024
+3942226,2024-07-05,UEFA Euro,2024,Spain,Germany,2,1,available,2024-07-05 | Spain 2-1 Germany | UEFA Euro 2024
+3938645,2024-06-26,UEFA Euro,2024,Ukraine,Belgium,0,0,available,2024-06-26 | Ukraine 0-0 Belgium | UEFA Euro 2024
+3930184,2024-06-26,UEFA Euro,2024,Czech Republic,Turkey,1,2,available,2024-06-26 | Czech Republic 1-2 Turkey | UEFA Euro 2024
+3941022,2024-07-02,UEFA Euro,2024,Austria,Turkey,1,2,available,2024-07-02 | Austria 1-2 Turkey | UEFA Euro 2024
+3941021,2024-07-02,UEFA Euro,2024,Romania,Netherlands,0,3,available,2024-07-02 | Romania 0-3 Netherlands | UEFA Euro 2024
+3941020,2024-07-01,UEFA Euro,2024,Portugal,Slovenia,0,0,available,2024-07-01 | Portugal 0-0 Slovenia | UEFA Euro 2024
+3941018,2024-06-30,UEFA Euro,2024,Spain,Georgia,4,1,available,2024-06-30 | Spain 4-1 Georgia | UEFA Euro 2024
+3941017,2024-06-30,UEFA Euro,2024,England,Slovakia,2,1,available,2024-06-30 | England 2-1 Slovakia | UEFA Euro 2024
+3930182,2024-06-25,UEFA Euro,2024,Denmark,Serbia,0,0,available,2024-06-25 | Denmark 0-0 Serbia | UEFA Euro 2024
+3930179,2024-06-24,UEFA Euro,2024,Albania,Spain,0,1,available,2024-06-24 | Albania 0-1 Spain | UEFA Euro 2024
+3940983,2024-06-29,UEFA Euro,2024,Germany,Denmark,2,0,available,2024-06-29 | Germany 2-0 Denmark | UEFA Euro 2024
+3940878,2024-06-29,UEFA Euro,2024,Switzerland,Italy,2,0,available,2024-06-29 | Switzerland 2-0 Italy | UEFA Euro 2024
+3930177,2024-06-23,UEFA Euro,2024,Scotland,Hungary,0,1,available,2024-06-23 | Scotland 0-1 Hungary | UEFA Euro 2024
+3930173,2024-06-21,UEFA Euro,2024,Netherlands,France,0,0,available,2024-06-21 | Netherlands 0-0 France | UEFA Euro 2024
+3930172,2024-06-20,UEFA Euro,2024,Spain,Italy,1,0,available,2024-06-20 | Spain 1-0 Italy | UEFA Euro 2024
+3930167,2024-06-19,UEFA Euro,2024,Croatia,Albania,2,2,available,2024-06-19 | Croatia 2-2 Albania | UEFA Euro 2024
+3930168,2024-06-19,UEFA Euro,2024,Germany,Hungary,2,0,available,2024-06-19 | Germany 2-0 Hungary | UEFA Euro 2024
+3930165,2024-06-17,UEFA Euro,2024,Austria,France,0,1,available,2024-06-17 | Austria 0-1 France | UEFA Euro 2024
+3930164,2024-06-17,UEFA Euro,2024,Belgium,Slovakia,0,1,available,2024-06-17 | Belgium 0-1 Slovakia | UEFA Euro 2024
+3930161,2024-06-15,UEFA Euro,2024,Italy,Albania,2,1,available,2024-06-15 | Italy 2-1 Albania | UEFA Euro 2024
+3930183,2024-06-26,UEFA Euro,2024,Slovakia,Romania,1,1,available,2024-06-26 | Slovakia 1-1 Romania | UEFA Euro 2024
+3930175,2024-06-22,UEFA Euro,2024,Belgium,Romania,2,0,available,2024-06-22 | Belgium 2-0 Romania | UEFA Euro 2024
+3930158,2024-06-14,UEFA Euro,2024,Germany,Scotland,5,1,available,2024-06-14 | Germany 5-1 Scotland | UEFA Euro 2024
+3788758,2021-06-17,UEFA Euro,2020,Ukraine,North Macedonia,2,1,available,2021-06-17 | Ukraine 2-1 North Macedonia | UEFA Euro 2020
+3788773,2021-06-23,UEFA Euro,2020,Portugal,France,2,2,available,2021-06-23 | Portugal 2-2 France | UEFA Euro 2020
+3788765,2021-06-20,UEFA Euro,2020,Switzerland,Turkey,3,1,available,2021-06-20 | Switzerland 3-1 Turkey | UEFA Euro 2020
+3788761,2021-06-18,UEFA Euro,2020,Sweden,Slovakia,1,0,available,2021-06-18 | Sweden 1-0 Slovakia | UEFA Euro 2020
+3788760,2021-06-18,UEFA Euro,2020,Croatia,Czech Republic,1,1,available,2021-06-18 | Croatia 1-1 Czech Republic | UEFA Euro 2020
+3795108,2021-07-02,UEFA Euro,2020,Switzerland,Spain,1,1,available,2021-07-02 | Switzerland 1-1 Spain | UEFA Euro 2020
+3794687,2021-06-27,UEFA Euro,2020,Belgium,Portugal,1,0,available,2021-06-27 | Belgium 1-0 Portugal | UEFA Euro 2020
+3794690,2021-06-27,UEFA Euro,2020,Netherlands,Czech Republic,0,2,available,2021-06-27 | Netherlands 0-2 Czech Republic | UEFA Euro 2020
+3794685,2021-06-26,UEFA Euro,2020,Italy,Austria,2,1,available,2021-06-26 | Italy 2-1 Austria | UEFA Euro 2020
+3794692,2021-06-29,UEFA Euro,2020,Sweden,Ukraine,1,2,available,2021-06-29 | Sweden 1-2 Ukraine | UEFA Euro 2020
+3794689,2021-06-26,UEFA Euro,2020,Wales,Denmark,0,4,available,2021-06-26 | Wales 0-4 Denmark | UEFA Euro 2020
+3795107,2021-07-02,UEFA Euro,2020,Belgium,Italy,1,2,available,2021-07-02 | Belgium 1-2 Italy | UEFA Euro 2020
+3795187,2021-07-03,UEFA Euro,2020,Ukraine,England,0,4,available,2021-07-03 | Ukraine 0-4 England | UEFA Euro 2020
+3795220,2021-07-06,UEFA Euro,2020,Italy,Spain,1,1,available,2021-07-06 | Italy 1-1 Spain | UEFA Euro 2020
+3794686,2021-06-28,UEFA Euro,2020,Croatia,Spain,3,5,available,2021-06-28 | Croatia 3-5 Spain | UEFA Euro 2020
+3788763,2021-06-19,UEFA Euro,2020,Hungary,France,1,1,available,2021-06-19 | Hungary 1-1 France | UEFA Euro 2020
+3795506,2021-07-11,UEFA Euro,2020,Italy,England,1,1,available,2021-07-11 | Italy 1-1 England | UEFA Euro 2020
+3788769,2021-06-21,UEFA Euro,2020,Russia,Denmark,1,4,available,2021-06-21 | Russia 1-4 Denmark | UEFA Euro 2020
+3788766,2021-06-20,UEFA Euro,2020,Italy,Wales,1,0,available,2021-06-20 | Italy 1-0 Wales | UEFA Euro 2020
+3788764,2021-06-19,UEFA Euro,2020,Portugal,Germany,2,4,available,2021-06-19 | Portugal 2-4 Germany | UEFA Euro 2020
+3788755,2021-06-16,UEFA Euro,2020,Turkey,Wales,0,2,available,2021-06-16 | Turkey 0-2 Wales | UEFA Euro 2020
+3788754,2021-06-16,UEFA Euro,2020,Italy,Switzerland,3,0,available,2021-06-16 | Italy 3-0 Switzerland | UEFA Euro 2020
+3788762,2021-06-19,UEFA Euro,2020,Spain,Poland,1,1,available,2021-06-19 | Spain 1-1 Poland | UEFA Euro 2020
+3788747,2021-06-13,UEFA Euro,2020,Austria,North Macedonia,3,1,available,2021-06-13 | Austria 3-1 North Macedonia | UEFA Euro 2020
+3788741,2021-06-11,UEFA Euro,2020,Turkey,Italy,0,3,available,2021-06-11 | Turkey 0-3 Italy | UEFA Euro 2020
+3795109,2021-07-03,UEFA Euro,2020,Czech Republic,Denmark,1,2,available,2021-07-03 | Czech Republic 1-2 Denmark | UEFA Euro 2020
+3788770,2021-06-21,UEFA Euro,2020,North Macedonia,Netherlands,0,3,available,2021-06-21 | North Macedonia 0-3 Netherlands | UEFA Euro 2020
+3794688,2021-06-29,UEFA Euro,2020,England,Germany,2,0,available,2021-06-29 | England 2-0 Germany | UEFA Euro 2020
+3788774,2021-06-23,UEFA Euro,2020,Germany,Hungary,2,2,available,2021-06-23 | Germany 2-2 Hungary | UEFA Euro 2020
+3788771,2021-06-22,UEFA Euro,2020,Croatia,Scotland,3,1,available,2021-06-22 | Croatia 3-1 Scotland | UEFA Euro 2020
+3788772,2021-06-22,UEFA Euro,2020,Czech Republic,England,0,1,available,2021-06-22 | Czech Republic 0-1 England | UEFA Euro 2020
+3788768,2021-06-21,UEFA Euro,2020,Finland,Belgium,0,2,available,2021-06-21 | Finland 0-2 Belgium | UEFA Euro 2020
+3788767,2021-06-21,UEFA Euro,2020,Ukraine,Austria,0,1,available,2021-06-21 | Ukraine 0-1 Austria | UEFA Euro 2020
+3788753,2021-06-16,UEFA Euro,2020,Finland,Russia,0,1,available,2021-06-16 | Finland 0-1 Russia | UEFA Euro 2020
+3788759,2021-06-18,UEFA Euro,2020,England,Scotland,0,0,available,2021-06-18 | England 0-0 Scotland | UEFA Euro 2020
+3788757,2021-06-17,UEFA Euro,2020,Denmark,Belgium,1,2,available,2021-06-17 | Denmark 1-2 Belgium | UEFA Euro 2020
+3788745,2021-06-13,UEFA Euro,2020,England,Croatia,1,0,available,2021-06-13 | England 1-0 Croatia | UEFA Euro 2020
+3795221,2021-07-07,UEFA Euro,2020,England,Denmark,2,1,available,2021-07-07 | England 2-1 Denmark | UEFA Euro 2020
+3788746,2021-06-13,UEFA Euro,2020,Netherlands,Ukraine,3,2,available,2021-06-13 | Netherlands 3-2 Ukraine | UEFA Euro 2020
+3794691,2021-06-28,UEFA Euro,2020,France,Switzerland,3,3,available,2021-06-28 | France 3-3 Switzerland | UEFA Euro 2020
+3788756,2021-06-17,UEFA Euro,2020,Netherlands,Austria,2,0,available,2021-06-17 | Netherlands 2-0 Austria | UEFA Euro 2020
+3788749,2021-06-14,UEFA Euro,2020,Poland,Slovakia,1,2,available,2021-06-14 | Poland 1-2 Slovakia | UEFA Euro 2020
+3788750,2021-06-14,UEFA Euro,2020,Spain,Sweden,0,0,available,2021-06-14 | Spain 0-0 Sweden | UEFA Euro 2020
+3788748,2021-06-14,UEFA Euro,2020,Scotland,Czech Republic,0,2,available,2021-06-14 | Scotland 0-2 Czech Republic | UEFA Euro 2020
+3788751,2021-06-15,UEFA Euro,2020,France,Germany,1,0,available,2021-06-15 | France 1-0 Germany | UEFA Euro 2020
+3788752,2021-06-15,UEFA Euro,2020,Hungary,Portugal,0,3,available,2021-06-15 | Hungary 0-3 Portugal | UEFA Euro 2020
+3788742,2021-06-12,UEFA Euro,2020,Denmark,Finland,0,1,available,2021-06-12 | Denmark 0-1 Finland | UEFA Euro 2020
+3788775,2021-06-23,UEFA Euro,2020,Slovakia,Spain,0,5,available,2021-06-23 | Slovakia 0-5 Spain | UEFA Euro 2020
+3788776,2021-06-23,UEFA Euro,2020,Sweden,Poland,3,2,available,2021-06-23 | Sweden 3-2 Poland | UEFA Euro 2020
+3788743,2021-06-12,UEFA Euro,2020,Belgium,Russia,3,0,available,2021-06-12 | Belgium 3-0 Russia | UEFA Euro 2020
+3788744,2021-06-12,UEFA Euro,2020,Wales,Switzerland,1,1,available,2021-06-12 | Wales 1-1 Switzerland | UEFA Euro 2020
+3893834,2023-08-03,Women's World Cup,2023,Morocco Women's,Colombia Women's,1,0,available,2023-08-03 | Morocco Women's 1-0 Colombia Women's | Women's World Cup 2023
+3893808,2023-07-27,Women's World Cup,2023,United States Women's,Netherlands Women's,1,1,available,2023-07-27 | United States Women's 1-1 Netherlands Women's | Women's World Cup 2023
+3893818,2023-07-30,Women's World Cup,2023,Germany Women's,Colombia Women's,1,2,available,2023-07-30 | Germany Women's 1-2 Colombia Women's | Women's World Cup 2023
+3893795,2023-07-22,Women's World Cup,2023,Denmark Women's,China PR Women's,1,0,available,2023-07-22 | Denmark Women's 1-0 China PR Women's | Women's World Cup 2023
+3893825,2023-08-01,Women's World Cup,2023,Haiti Women's,Denmark Women's,0,2,available,2023-08-01 | Haiti Women's 0-2 Denmark Women's | Women's World Cup 2023
+3893798,2023-07-23,Women's World Cup,2023,France Women's,Jamaica Women's,0,0,available,2023-07-23 | France Women's 0-0 Jamaica Women's | Women's World Cup 2023
+3893832,2023-08-02,Women's World Cup,2023,Jamaica Women's,Brazil Women's,0,0,available,2023-08-02 | Jamaica Women's 0-0 Brazil Women's | Women's World Cup 2023
+3893829,2023-08-02,Women's World Cup,2023,Panama Women's,France Women's,3,6,available,2023-08-02 | Panama Women's 3-6 France Women's | Women's World Cup 2023
+3893805,2023-07-26,Women's World Cup,2023,Japan Women's,Costa Rica Women's,2,0,available,2023-07-26 | Japan Women's 2-0 Costa Rica Women's | Women's World Cup 2023
+3901734,2023-08-05,Women's World Cup,2023,Japan Women's,Norway Women's,3,1,available,2023-08-05 | Japan Women's 3-1 Norway Women's | Women's World Cup 2023
+3893802,2023-07-25,Women's World Cup,2023,Colombia Women's,Korea Republic Women's,2,0,available,2023-07-25 | Colombia Women's 2-0 Korea Republic Women's | Women's World Cup 2023
+3893799,2023-07-24,Women's World Cup,2023,Germany Women's,Morocco Women's,6,0,available,2023-07-24 | Germany Women's 6-0 Morocco Women's | Women's World Cup 2023
+3893824,2023-07-31,Women's World Cup,2023,Republic of Ireland Women's,Nigeria Women's,0,0,available,2023-07-31 | Republic of Ireland Women's 0-0 Nigeria Women's | Women's World Cup 2023
+3893827,2023-08-01,Women's World Cup,2023,Vietnam Women's,Netherlands Women's,0,7,available,2023-08-01 | Vietnam Women's 0-7 Netherlands Women's | Women's World Cup 2023
+3893819,2023-07-30,Women's World Cup,2023,Korea Republic Women's,Morocco Women's,0,1,available,2023-07-30 | Korea Republic Women's 0-1 Morocco Women's | Women's World Cup 2023
+3893815,2023-07-29,Women's World Cup,2023,France Women's,Brazil Women's,2,1,available,2023-07-29 | France Women's 2-1 Brazil Women's | Women's World Cup 2023
+3893800,2023-07-24,Women's World Cup,2023,Italy Women's,Argentina Women's,1,0,available,2023-07-24 | Italy Women's 1-0 Argentina Women's | Women's World Cup 2023
+3893816,2023-07-29,Women's World Cup,2023,Panama Women's,Jamaica Women's,0,1,available,2023-07-29 | Panama Women's 0-1 Jamaica Women's | Women's World Cup 2023
+3893830,2023-08-02,Women's World Cup,2023,Argentina Women's,Sweden Women's,0,2,available,2023-08-02 | Argentina Women's 0-2 Sweden Women's | Women's World Cup 2023
+3893833,2023-08-03,Women's World Cup,2023,Korea Republic Women's,Germany Women's,1,1,available,2023-08-03 | Korea Republic Women's 1-1 Germany Women's | Women's World Cup 2023
+3901833,2023-08-08,Women's World Cup,2023,France Women's,Morocco Women's,4,0,available,2023-08-08 | France Women's 4-0 Morocco Women's | Women's World Cup 2023
+3901736,2023-08-07,Women's World Cup,2023,Australia Women's,Denmark Women's,2,0,available,2023-08-07 | Australia Women's 2-0 Denmark Women's | Women's World Cup 2023
+3902968,2023-08-12,Women's World Cup,2023,Australia Women's,France Women's,0,0,available,2023-08-12 | Australia Women's 0-0 France Women's | Women's World Cup 2023
+3893793,2023-07-22,Women's World Cup,2023,Zambia W,Japan Women's,0,5,available,2023-07-22 | Zambia W 0-5 Japan Women's | Women's World Cup 2023
+3893826,2023-08-01,Women's World Cup,2023,Portugal Women's,United States Women's,0,0,available,2023-08-01 | Portugal Women's 0-0 United States Women's | Women's World Cup 2023
+3893823,2023-07-31,Women's World Cup,2023,Costa Rica Women's,Zambia W,1,3,available,2023-07-31 | Costa Rica Women's 1-3 Zambia W | Women's World Cup 2023
+3893813,2023-07-28,Women's World Cup,2023,China PR Women's,Haiti Women's,1,0,available,2023-07-28 | China PR Women's 1-0 Haiti Women's | Women's World Cup 2023
+3893790,2023-07-21,Women's World Cup,2023,Nigeria Women's,Canada Women's,0,0,available,2023-07-21 | Nigeria Women's 0-0 Canada Women's | Women's World Cup 2023
+3893796,2023-07-23,Women's World Cup,2023,Sweden Women's,South Africa Women's,2,1,available,2023-07-23 | Sweden Women's 2-1 South Africa Women's | Women's World Cup 2023
+3893831,2023-08-02,Women's World Cup,2023,South Africa Women's,Italy Women's,3,2,available,2023-08-02 | South Africa Women's 3-2 Italy Women's | Women's World Cup 2023
+3906390,2023-08-20,Women's World Cup,2023,Spain Women's,England Women's,1,0,available,2023-08-20 | Spain Women's 1-0 England Women's | Women's World Cup 2023
+3893804,2023-07-25,Women's World Cup,2023,Switzerland Women's,Norway Women's,0,0,available,2023-07-25 | Switzerland Women's 0-0 Norway Women's | Women's World Cup 2023
+3893791,2023-07-21,Women's World Cup,2023,Spain Women's,Costa Rica Women's,3,0,available,2023-07-21 | Spain Women's 3-0 Costa Rica Women's | Women's World Cup 2023
+3901733,2023-08-05,Women's World Cup,2023,Switzerland Women's,Spain Women's,1,5,available,2023-08-05 | Switzerland Women's 1-5 Spain Women's | Women's World Cup 2023
+3893810,2023-07-27,Women's World Cup,2023,Portugal Women's,Vietnam Women's,2,0,available,2023-07-27 | Portugal Women's 2-0 Vietnam Women's | Women's World Cup 2023
+3893787,2023-07-20,Women's World Cup,2023,New Zealand Women's,Norway Women's,1,0,available,2023-07-20 | New Zealand Women's 1-0 Norway Women's | Women's World Cup 2023
+3893820,2023-07-30,Women's World Cup,2023,Norway Women's,Philippines Women's,6,0,available,2023-07-30 | Norway Women's 6-0 Philippines Women's | Women's World Cup 2023
+3893817,2023-07-30,Women's World Cup,2023,Switzerland Women's,New Zealand Women's,0,0,available,2023-07-30 | Switzerland Women's 0-0 New Zealand Women's | Women's World Cup 2023
+3904629,2023-08-16,Women's World Cup,2023,Australia Women's,England Women's,1,3,available,2023-08-16 | Australia Women's 1-3 England Women's | Women's World Cup 2023
+3906389,2023-08-19,Women's World Cup,2023,Sweden Women's,Australia Women's,2,0,available,2023-08-19 | Sweden Women's 2-0 Australia Women's | Women's World Cup 2023
+3893821,2023-07-31,Women's World Cup,2023,Canada Women's,Australia Women's,0,4,available,2023-07-31 | Canada Women's 0-4 Australia Women's | Women's World Cup 2023
+3904628,2023-08-15,Women's World Cup,2023,Spain Women's,Sweden Women's,2,1,available,2023-08-15 | Spain Women's 2-1 Sweden Women's | Women's World Cup 2023
+3893806,2023-07-26,Women's World Cup,2023,Spain Women's,Zambia W,5,0,available,2023-07-26 | Spain Women's 5-0 Zambia W | Women's World Cup 2023
+3893801,2023-07-24,Women's World Cup,2023,Brazil Women's,Panama Women's,4,0,available,2023-07-24 | Brazil Women's 4-0 Panama Women's | Women's World Cup 2023
+3893797,2023-07-23,Women's World Cup,2023,Netherlands Women's,Portugal Women's,1,0,available,2023-07-23 | Netherlands Women's 1-0 Portugal Women's | Women's World Cup 2023
+3893822,2023-07-31,Women's World Cup,2023,Japan Women's,Spain Women's,4,0,available,2023-07-31 | Japan Women's 4-0 Spain Women's | Women's World Cup 2023
+3893814,2023-07-29,Women's World Cup,2023,Sweden Women's,Italy Women's,5,0,available,2023-07-29 | Sweden Women's 5-0 Italy Women's | Women's World Cup 2023
+3901832,2023-08-08,Women's World Cup,2023,Colombia Women's,Jamaica Women's,1,0,available,2023-08-08 | Colombia Women's 1-0 Jamaica Women's | Women's World Cup 2023
+3902967,2023-08-12,Women's World Cup,2023,England Women's,Colombia Women's,2,1,available,2023-08-12 | England Women's 2-1 Colombia Women's | Women's World Cup 2023
+3901797,2023-08-06,Women's World Cup,2023,Sweden Women's,United States Women's,0,0,available,2023-08-06 | Sweden Women's 0-0 United States Women's | Women's World Cup 2023
+3901796,2023-08-06,Women's World Cup,2023,Netherlands Women's,South Africa Women's,2,0,available,2023-08-06 | Netherlands Women's 2-0 South Africa Women's | Women's World Cup 2023
+3902240,2023-08-11,Women's World Cup,2023,Spain Women's,Netherlands Women's,2,1,available,2023-08-11 | Spain Women's 2-1 Netherlands Women's | Women's World Cup 2023
+3902239,2023-08-11,Women's World Cup,2023,Japan Women's,Sweden Women's,1,2,available,2023-08-11 | Japan Women's 1-2 Sweden Women's | Women's World Cup 2023
+3901735,2023-08-07,Women's World Cup,2023,England Women's,Nigeria Women's,0,0,available,2023-08-07 | England Women's 0-0 Nigeria Women's | Women's World Cup 2023
+3893811,2023-07-28,Women's World Cup,2023,England Women's,Denmark Women's,1,0,available,2023-07-28 | England Women's 1-0 Denmark Women's | Women's World Cup 2023
+3893812,2023-07-28,Women's World Cup,2023,Argentina Women's,South Africa Women's,2,2,available,2023-07-28 | Argentina Women's 2-2 South Africa Women's | Women's World Cup 2023
+3893809,2023-07-27,Women's World Cup,2023,Australia Women's,Nigeria Women's,2,3,available,2023-07-27 | Australia Women's 2-3 Nigeria Women's | Women's World Cup 2023
+3893807,2023-07-26,Women's World Cup,2023,Canada Women's,Republic of Ireland Women's,2,1,available,2023-07-26 | Canada Women's 2-1 Republic of Ireland Women's | Women's World Cup 2023
+3893788,2023-07-20,Women's World Cup,2023,Australia Women's,Republic of Ireland Women's,1,0,available,2023-07-20 | Australia Women's 1-0 Republic of Ireland Women's | Women's World Cup 2023
+3893789,2023-07-21,Women's World Cup,2023,Philippines Women's,Switzerland Women's,0,2,available,2023-07-21 | Philippines Women's 0-2 Switzerland Women's | Women's World Cup 2023
+3893794,2023-07-22,Women's World Cup,2023,England Women's,Haiti Women's,1,0,available,2023-07-22 | England Women's 1-0 Haiti Women's | Women's World Cup 2023
+3893792,2023-07-22,Women's World Cup,2023,United States Women's,Vietnam Women's,3,0,available,2023-07-22 | United States Women's 3-0 Vietnam Women's | Women's World Cup 2023
+3893828,2023-08-01,Women's World Cup,2023,China PR Women's,England Women's,1,6,available,2023-08-01 | China PR Women's 1-6 England Women's | Women's World Cup 2023
+3893803,2023-07-25,Women's World Cup,2023,New Zealand Women's,Philippines Women's,0,1,available,2023-07-25 | New Zealand Women's 0-1 Philippines Women's | Women's World Cup 2023
+3802643,2022-04-29,Ligue 1,2021/2022,Strasbourg,Paris Saint-Germain,3,3,available,2022-04-29 | Strasbourg 3-3 Paris Saint-Germain | Ligue 1 2021/2022
+3803000,2022-04-09,Ligue 1,2021/2022,Clermont Foot,Paris Saint-Germain,1,6,available,2022-04-09 | Clermont Foot 1-6 Paris Saint-Germain | Ligue 1 2021/2022
+3802802,2022-01-23,Ligue 1,2021/2022,Paris Saint-Germain,Stade de Reims,4,0,available,2022-01-23 | Paris Saint-Germain 4-0 Stade de Reims | Ligue 1 2021/2022
+3802696,2021-08-29,Ligue 1,2021/2022,Stade de Reims,Paris Saint-Germain,0,2,available,2021-08-29 | Stade de Reims 0-2 Paris Saint-Germain | Ligue 1 2021/2022
+3802699,2021-10-29,Ligue 1,2021/2022,Paris Saint-Germain,Lille,2,1,available,2021-10-29 | Paris Saint-Germain 2-1 Lille | Ligue 1 2021/2022
+3802685,2021-12-04,Ligue 1,2021/2022,Lens,Paris Saint-Germain,1,1,available,2021-12-04 | Lens 1-1 Paris Saint-Germain | Ligue 1 2021/2022
+3802665,2022-05-14,Ligue 1,2021/2022,Montpellier,Paris Saint-Germain,0,4,available,2022-05-14 | Montpellier 0-4 Paris Saint-Germain | Ligue 1 2021/2022
+3802752,2021-09-19,Ligue 1,2021/2022,Paris Saint-Germain,Lyon,2,1,available,2021-09-19 | Paris Saint-Germain 2-1 Lyon | Ligue 1 2021/2022
+3802809,2021-10-03,Ligue 1,2021/2022,Rennes,Paris Saint-Germain,2,0,available,2021-10-03 | Rennes 2-0 Paris Saint-Germain | Ligue 1 2021/2022
+3802676,2022-04-23,Ligue 1,2021/2022,Paris Saint-Germain,Lens,1,1,available,2022-04-23 | Paris Saint-Germain 1-1 Lens | Ligue 1 2021/2022
+3802983,2022-04-17,Ligue 1,2021/2022,Paris Saint-Germain,Olympique de Marseille,2,1,available,2022-04-17 | Paris Saint-Germain 2-1 Olympique de Marseille | Ligue 1 2021/2022
+3802907,2022-02-06,Ligue 1,2021/2022,Lille,Paris Saint-Germain,1,5,available,2022-02-06 | Lille 1-5 Paris Saint-Germain | Ligue 1 2021/2022
+3802902,2021-10-24,Ligue 1,2021/2022,Olympique de Marseille,Paris Saint-Germain,0,0,available,2021-10-24 | Olympique de Marseille 0-0 Paris Saint-Germain | Ligue 1 2021/2022
+3802818,2022-04-03,Ligue 1,2021/2022,Paris Saint-Germain,Lorient,5,1,available,2022-04-03 | Paris Saint-Germain 5-1 Lorient | Ligue 1 2021/2022
+3802683,2021-12-12,Ligue 1,2021/2022,Paris Saint-Germain,AS Monaco,2,0,available,2021-12-12 | Paris Saint-Germain 2-0 AS Monaco | Ligue 1 2021/2022
+3802690,2021-12-22,Ligue 1,2021/2022,Lorient,Paris Saint-Germain,1,1,available,2021-12-22 | Lorient 1-1 Paris Saint-Germain | Ligue 1 2021/2022
+3802904,2022-03-13,Ligue 1,2021/2022,Paris Saint-Germain,Bordeaux,3,0,available,2022-03-13 | Paris Saint-Germain 3-0 Bordeaux | Ligue 1 2021/2022
+3802837,2021-11-28,Ligue 1,2021/2022,Saint-Étienne,Paris Saint-Germain,1,3,available,2021-11-28 | Saint-Étienne 1-3 Paris Saint-Germain | Ligue 1 2021/2022
+3802984,2021-11-20,Ligue 1,2021/2022,Paris Saint-Germain,Nantes,3,1,available,2021-11-20 | Paris Saint-Germain 3-1 Nantes | Ligue 1 2021/2022
+3802805,2022-03-05,Ligue 1,2021/2022,OGC Nice,Paris Saint-Germain,1,0,available,2022-03-05 | OGC Nice 1-0 Paris Saint-Germain | Ligue 1 2021/2022
+3802709,2022-02-26,Ligue 1,2021/2022,Paris Saint-Germain,Saint-Étienne,3,1,available,2022-02-26 | Paris Saint-Germain 3-1 Saint-Étienne | Ligue 1 2021/2022
+3802948,2022-05-21,Ligue 1,2021/2022,Paris Saint-Germain,Metz,5,0,available,2022-05-21 | Paris Saint-Germain 5-0 Metz | Ligue 1 2021/2022
+3802930,2022-05-08,Ligue 1,2021/2022,Paris Saint-Germain,Troyes,2,2,available,2022-05-08 | Paris Saint-Germain 2-2 Troyes | Ligue 1 2021/2022
+3802793,2021-12-01,Ligue 1,2021/2022,Paris Saint-Germain,OGC Nice,0,0,available,2021-12-01 | Paris Saint-Germain 0-0 OGC Nice | Ligue 1 2021/2022
+3802839,2022-02-19,Ligue 1,2021/2022,Nantes,Paris Saint-Germain,3,1,available,2022-02-19 | Nantes 3-1 Paris Saint-Germain | Ligue 1 2021/2022
+3802795,2022-02-11,Ligue 1,2021/2022,Paris Saint-Germain,Rennes,1,0,available,2022-02-11 | Paris Saint-Germain 1-0 Rennes | Ligue 1 2021/2022
+3838017,2023-06-03,Ligue 1,2022/2023,Paris Saint-Germain,Clermont Foot,2,3,available,2023-06-03 | Paris Saint-Germain 2-3 Clermont Foot | Ligue 1 2022/2023
+3837987,2023-05-13,Ligue 1,2022/2023,Paris Saint-Germain,AC Ajaccio,5,0,available,2023-05-13 | Paris Saint-Germain 5-0 AC Ajaccio | Ligue 1 2022/2023
+3837928,2023-04-02,Ligue 1,2022/2023,Paris Saint-Germain,Lyon,0,1,available,2023-04-02 | Paris Saint-Germain 0-1 Lyon | Ligue 1 2022/2023
+3837918,2023-03-19,Ligue 1,2022/2023,Paris Saint-Germain,Rennes,0,2,available,2023-03-19 | Paris Saint-Germain 0-2 Rennes | Ligue 1 2022/2023
+3837902,2023-03-11,Ligue 1,2022/2023,Stade Brestois,Paris Saint-Germain,1,2,available,2023-03-11 | Stade Brestois 1-2 Paris Saint-Germain | Ligue 1 2022/2023
+3837885,2023-02-26,Ligue 1,2022/2023,Olympique de Marseille,Paris Saint-Germain,0,3,available,2023-02-26 | Olympique de Marseille 0-3 Paris Saint-Germain | Ligue 1 2022/2023
+3837876,2023-02-19,Ligue 1,2022/2023,Paris Saint-Germain,Lille,4,3,available,2023-02-19 | Paris Saint-Germain 4-3 Lille | Ligue 1 2022/2023
+3837839,2023-01-29,Ligue 1,2022/2023,Paris Saint-Germain,Stade de Reims,1,1,available,2023-01-29 | Paris Saint-Germain 1-1 Stade de Reims | Ligue 1 2022/2023
+3837827,2023-01-15,Ligue 1,2022/2023,Rennes,Paris Saint-Germain,1,0,available,2023-01-15 | Rennes 1-0 Paris Saint-Germain | Ligue 1 2022/2023
+3837818,2023-01-11,Ligue 1,2022/2023,Paris Saint-Germain,Angers,2,0,available,2023-01-11 | Paris Saint-Germain 2-0 Angers | Ligue 1 2022/2023
+3837785,2022-11-13,Ligue 1,2022/2023,Paris Saint-Germain,Auxerre,5,0,available,2022-11-13 | Paris Saint-Germain 5-0 Auxerre | Ligue 1 2022/2023
+3837747,2022-10-16,Ligue 1,2022/2023,Paris Saint-Germain,Olympique de Marseille,1,0,available,2022-10-16 | Paris Saint-Germain 1-0 Olympique de Marseille | Ligue 1 2022/2023
+3837680,2022-08-28,Ligue 1,2022/2023,Paris Saint-Germain,AS Monaco,1,1,available,2022-08-28 | Paris Saint-Germain 1-1 AS Monaco | Ligue 1 2022/2023
+3837659,2022-08-13,Ligue 1,2022/2023,Paris Saint-Germain,Montpellier,5,2,available,2022-08-13 | Paris Saint-Germain 5-2 Montpellier | Ligue 1 2022/2023
+3837650,2022-08-06,Ligue 1,2022/2023,Clermont Foot,Paris Saint-Germain,0,5,available,2022-08-06 | Clermont Foot 0-5 Paris Saint-Germain | Ligue 1 2022/2023
+3838004,2023-05-27,Ligue 1,2022/2023,Strasbourg,Paris Saint-Germain,1,1,available,2023-05-27 | Strasbourg 1-1 Paris Saint-Germain | Ligue 1 2022/2023
+3837998,2023-05-21,Ligue 1,2022/2023,Auxerre,Paris Saint-Germain,1,2,available,2023-05-21 | Auxerre 1-2 Paris Saint-Germain | Ligue 1 2022/2023
+3837963,2023-04-30,Ligue 1,2022/2023,Paris Saint-Germain,Lorient,1,3,available,2023-04-30 | Paris Saint-Germain 1-3 Lorient | Ligue 1 2022/2023
+3837954,2023-04-21,Ligue 1,2022/2023,Angers,Paris Saint-Germain,1,2,available,2023-04-21 | Angers 1-2 Paris Saint-Germain | Ligue 1 2022/2023
+3837947,2023-04-15,Ligue 1,2022/2023,Paris Saint-Germain,Lens,3,1,available,2023-04-15 | Paris Saint-Germain 3-1 Lens | Ligue 1 2022/2023
+3837938,2023-04-08,Ligue 1,2022/2023,OGC Nice,Paris Saint-Germain,0,2,available,2023-04-08 | OGC Nice 0-2 Paris Saint-Germain | Ligue 1 2022/2023
+3837896,2023-03-04,Ligue 1,2022/2023,Paris Saint-Germain,Nantes,4,2,available,2023-03-04 | Paris Saint-Germain 4-2 Nantes | Ligue 1 2022/2023
+3837859,2023-02-04,Ligue 1,2022/2023,Paris Saint-Germain,Toulouse,2,1,available,2023-02-04 | Paris Saint-Germain 2-1 Toulouse | Ligue 1 2022/2023
+3837844,2023-02-01,Ligue 1,2022/2023,Montpellier,Paris Saint-Germain,1,3,available,2023-02-01 | Montpellier 1-3 Paris Saint-Germain | Ligue 1 2022/2023
+3837771,2022-10-29,Ligue 1,2022/2023,Paris Saint-Germain,Troyes,4,3,available,2022-10-29 | Paris Saint-Germain 4-3 Troyes | Ligue 1 2022/2023
+3837752,2022-10-21,Ligue 1,2022/2023,AC Ajaccio,Paris Saint-Germain,0,3,available,2022-10-21 | AC Ajaccio 0-3 Paris Saint-Germain | Ligue 1 2022/2023
+3837727,2022-10-01,Ligue 1,2022/2023,Paris Saint-Germain,OGC Nice,2,1,available,2022-10-01 | Paris Saint-Germain 2-1 OGC Nice | Ligue 1 2022/2023
+3837717,2022-09-18,Ligue 1,2022/2023,Lyon,Paris Saint-Germain,0,1,available,2022-09-18 | Lyon 0-1 Paris Saint-Germain | Ligue 1 2022/2023
+3837706,2022-09-10,Ligue 1,2022/2023,Paris Saint-Germain,Stade Brestois,1,0,available,2022-09-10 | Paris Saint-Germain 1-0 Stade Brestois | Ligue 1 2022/2023
+3837695,2022-09-03,Ligue 1,2022/2023,Nantes,Paris Saint-Germain,0,3,available,2022-09-03 | Nantes 0-3 Paris Saint-Germain | Ligue 1 2022/2023
+3837683,2022-08-31,Ligue 1,2022/2023,Toulouse,Paris Saint-Germain,0,3,available,2022-08-31 | Toulouse 0-3 Paris Saint-Germain | Ligue 1 2022/2023
+3837662,2022-08-21,Ligue 1,2022/2023,Lille,Paris Saint-Germain,1,7,available,2022-08-21 | Lille 1-7 Paris Saint-Germain | Ligue 1 2022/2023
+3895292,2024-04-06,1. Bundesliga,2023/2024,Union Berlin,Bayer Leverkusen,0,1,available,2024-04-06 | Union Berlin 0-1 Bayer Leverkusen | 1. Bundesliga 2023/2024
+3895320,2024-04-27,1. Bundesliga,2023/2024,Bayer Leverkusen,VfB Stuttgart,2,2,available,2024-04-27 | Bayer Leverkusen 2-2 VfB Stuttgart | 1. Bundesliga 2023/2024
+3895158,2023-12-03,1. Bundesliga,2023/2024,Bayer Leverkusen,Borussia Dortmund,1,1,available,2023-12-03 | Bayer Leverkusen 1-1 Borussia Dortmund | 1. Bundesliga 2023/2024
+3895107,2023-10-08,1. Bundesliga,2023/2024,Bayer Leverkusen,FC Köln,3,0,available,2023-10-08 | Bayer Leverkusen 3-0 FC Köln | 1. Bundesliga 2023/2024
+3895340,2024-05-12,1. Bundesliga,2023/2024,Bochum,Bayer Leverkusen,0,5,available,2024-05-12 | Bochum 0-5 Bayer Leverkusen | 1. Bundesliga 2023/2024
+3895286,2024-03-30,1. Bundesliga,2023/2024,Bayer Leverkusen,Hoffenheim,2,1,available,2024-03-30 | Bayer Leverkusen 2-1 Hoffenheim | 1. Bundesliga 2023/2024
+3895302,2024-04-14,1. Bundesliga,2023/2024,Bayer Leverkusen,Werder Bremen,5,0,available,2024-04-14 | Bayer Leverkusen 5-0 Werder Bremen | 1. Bundesliga 2023/2024
+3895333,2024-05-05,1. Bundesliga,2023/2024,Eintracht Frankfurt,Bayer Leverkusen,1,5,available,2024-05-05 | Eintracht Frankfurt 1-5 Bayer Leverkusen | 1. Bundesliga 2023/2024
+3895348,2024-05-18,1. Bundesliga,2023/2024,Bayer Leverkusen,Augsburg,2,1,available,2024-05-18 | Bayer Leverkusen 2-1 Augsburg | 1. Bundesliga 2023/2024
+3895220,2024-02-03,1. Bundesliga,2023/2024,Darmstadt 98,Bayer Leverkusen,0,2,available,2024-02-03 | Darmstadt 98 0-2 Bayer Leverkusen | 1. Bundesliga 2023/2024
+3895250,2024-02-23,1. Bundesliga,2023/2024,Bayer Leverkusen,FSV Mainz 05,2,1,available,2024-02-23 | Bayer Leverkusen 2-1 FSV Mainz 05 | 1. Bundesliga 2023/2024
+3895266,2024-03-10,1. Bundesliga,2023/2024,Bayer Leverkusen,Wolfsburg,2,0,available,2024-03-10 | Bayer Leverkusen 2-0 Wolfsburg | 1. Bundesliga 2023/2024
+3895275,2024-03-17,1. Bundesliga,2023/2024,Freiburg,Bayer Leverkusen,2,3,available,2024-03-17 | Freiburg 2-3 Bayer Leverkusen | 1. Bundesliga 2023/2024
+3895180,2023-12-17,1. Bundesliga,2023/2024,Bayer Leverkusen,Eintracht Frankfurt,3,0,available,2023-12-17 | Bayer Leverkusen 3-0 Eintracht Frankfurt | 1. Bundesliga 2023/2024
+3895134,2023-11-04,1. Bundesliga,2023/2024,Hoffenheim,Bayer Leverkusen,2,3,available,2023-11-04 | Hoffenheim 2-3 Bayer Leverkusen | 1. Bundesliga 2023/2024
+3895121,2023-10-29,1. Bundesliga,2023/2024,Bayer Leverkusen,Freiburg,2,1,available,2023-10-29 | Bayer Leverkusen 2-1 Freiburg | 1. Bundesliga 2023/2024
+3895074,2023-09-15,1. Bundesliga,2023/2024,Bayern Munich,Bayer Leverkusen,2,2,available,2023-09-15 | Bayern Munich 2-2 Bayer Leverkusen | 1. Bundesliga 2023/2024
+3895139,2023-11-12,1. Bundesliga,2023/2024,Bayer Leverkusen,Union Berlin,4,0,available,2023-11-12 | Bayer Leverkusen 4-0 Union Berlin | 1. Bundesliga 2023/2024
+3895086,2023-09-24,1. Bundesliga,2023/2024,Bayer Leverkusen,FC Heidenheim,4,1,available,2023-09-24 | Bayer Leverkusen 4-1 FC Heidenheim | 1. Bundesliga 2023/2024
+3895309,2024-04-21,1. Bundesliga,2023/2024,Borussia Dortmund,Bayer Leverkusen,1,1,available,2024-04-21 | Borussia Dortmund 1-1 Bayer Leverkusen | 1. Bundesliga 2023/2024
+3895258,2024-03-03,1. Bundesliga,2023/2024,FC Köln,Bayer Leverkusen,0,2,available,2024-03-03 | FC Köln 0-2 Bayer Leverkusen | 1. Bundesliga 2023/2024
+3895244,2024-02-17,1. Bundesliga,2023/2024,FC Heidenheim,Bayer Leverkusen,1,2,available,2024-02-17 | FC Heidenheim 1-2 Bayer Leverkusen | 1. Bundesliga 2023/2024
+3895232,2024-02-10,1. Bundesliga,2023/2024,Bayer Leverkusen,Bayern Munich,3,0,available,2024-02-10 | Bayer Leverkusen 3-0 Bayern Munich | 1. Bundesliga 2023/2024
+3895210,2024-01-27,1. Bundesliga,2023/2024,Bayer Leverkusen,Borussia Mönchengladbach,0,0,available,2024-01-27 | Bayer Leverkusen 0-0 Borussia Mönchengladbach | 1. Bundesliga 2023/2024
+3895202,2024-01-20,1. Bundesliga,2023/2024,RB Leipzig,Bayer Leverkusen,2,3,available,2024-01-20 | RB Leipzig 2-3 Bayer Leverkusen | 1. Bundesliga 2023/2024
+3895194,2024-01-13,1. Bundesliga,2023/2024,Augsburg,Bayer Leverkusen,0,1,available,2024-01-13 | Augsburg 0-1 Bayer Leverkusen | 1. Bundesliga 2023/2024
+3895182,2023-12-20,1. Bundesliga,2023/2024,Bayer Leverkusen,Bochum,4,0,available,2023-12-20 | Bayer Leverkusen 4-0 Bochum | 1. Bundesliga 2023/2024
+3895167,2023-12-10,1. Bundesliga,2023/2024,VfB Stuttgart,Bayer Leverkusen,1,1,available,2023-12-10 | VfB Stuttgart 1-1 Bayer Leverkusen | 1. Bundesliga 2023/2024
+3895153,2023-11-25,1. Bundesliga,2023/2024,Werder Bremen,Bayer Leverkusen,0,3,available,2023-11-25 | Werder Bremen 0-3 Bayer Leverkusen | 1. Bundesliga 2023/2024
+3895113,2023-10-21,1. Bundesliga,2023/2024,Wolfsburg,Bayer Leverkusen,1,2,available,2023-10-21 | Wolfsburg 1-2 Bayer Leverkusen | 1. Bundesliga 2023/2024
+3895095,2023-09-30,1. Bundesliga,2023/2024,FSV Mainz 05,Bayer Leverkusen,0,3,available,2023-09-30 | FSV Mainz 05 0-3 Bayer Leverkusen | 1. Bundesliga 2023/2024
+3895067,2023-09-02,1. Bundesliga,2023/2024,Bayer Leverkusen,Darmstadt 98,5,1,available,2023-09-02 | Bayer Leverkusen 5-1 Darmstadt 98 | 1. Bundesliga 2023/2024
+3895060,2023-08-26,1. Bundesliga,2023/2024,Borussia Mönchengladbach,Bayer Leverkusen,0,3,available,2023-08-26 | Borussia Mönchengladbach 0-3 Bayer Leverkusen | 1. Bundesliga 2023/2024
+3895052,2023-08-19,1. Bundesliga,2023/2024,Bayer Leverkusen,RB Leipzig,3,2,available,2023-08-19 | Bayer Leverkusen 3-2 RB Leipzig | 1. Bundesliga 2023/2024

@@ -1,0 +1,8 @@
+# No [theme] block on purpose: the app follows the device setting and can be switched
+# in the app menu (top-right, three dots > Settings > Theme > Light / Dark / Use system setting).
+
+[server]
+maxUploadSize = 50
+
+[browser]
+gatherUsageStats = false
